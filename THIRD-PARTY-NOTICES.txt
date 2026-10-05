@@ -1,4 +1,4 @@
-AUTO VIDEO EDITOR 1.0.0 - THIRD-PARTY NOTICES
+AUTO VIDEO EDITOR 1.1.0 - THIRD-PARTY NOTICES
 ==================================================
 
 AutoVideoEditor.exe is compiled to machine code with Nuitka 4.1.3 (https://nuitka.net/).
